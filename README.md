@@ -56,7 +56,7 @@ P.S.: It may be a *little laggy*, cuz we were experimenting with **sprite-stacki
 </div>
 <br>
 
-## 📱 [ch1Pik](https://ldj.am/$261637) ##
+## 📱 [ch1Pik](https://ldjam.com/events/ludum-dare/49/ch1pik) ##
 
 <div class="pull_left"><img src="https://github.com/Jill-of-All-Trades/-JAMS-games-/assets/52456404/d6c12fbd-b116-415b-9f81-5f0a853f7701" align="left">
 
@@ -68,7 +68,7 @@ You play as a character named Chipik, who can become unstable, dividing into 2 p
 <br><br><br><br><br><br><br>
 </div>
 
-## 🧙‍♂️ [Deepest Dwarf Dungeon](https://ldj.am/$237259) ##
+## 🧙‍♂️ [Deepest Dwarf Dungeon](https://ldjam.com/events/ludum-dare/48/deepest-dwarf-dungeon) ##
 
 <div class="pull_left"><img src="https://github.com/Jill-of-All-Trades/-JAMS-games-/assets/52456404/3e88a31d-0e3d-4c85-95c1-0e794fd7d0d5" align="left">
   
@@ -82,7 +82,7 @@ _The long time ago, a gigantic deep-underground dwarven kingdom was abandoned. H
   <br><br><br><br>
 </div>
 
-## 🗝 [Regguman](https://ldj.am/$212533) ##
+## 🗝 [Regguman](https://ldjam.com/events/ludum-dare/47/regguman) ##
 
 <div class="pull_left"><img src="https://github.com/Jill-of-All-Trades/-JAMS-games-/assets/52456404/4479c9bc-9804-427e-b604-f2c56f5545a8" align="left">
 
@@ -95,7 +95,7 @@ Play as a strange creature - regguman - and solve **puzzles** to escape your apa
  
 </div>
 
-## 🐓 [AI* - Save them all!](https://ldj.am/$182074) ##
+## 🐓 [AI* - Save them all!](https://ldjam.com/events/ludum-dare/46/ai-save-them-all) ##
 
 <div class="pull_left"><img src="https://github.com/Jill-of-All-Trades/-JAMS-games-/assets/52456404/0b1d2602-4ebc-4c55-8c95-d79e4dd9df01" align="left">
 
@@ -107,7 +107,7 @@ P.S.: Our 4th game, first usage of A* pathfinding algorithm there, plz don't bul
 <br><br><br><br><br><br><br>
 </div>
 
-## 🐊 [Quest about... Nothing?](https://ldj.am/$161561) ##
+## 🐊 [Quest about... Nothing?](https://ldjam.com/events/ludum-dare/45/quest-about-nothing) ##
 
 <div class="pull_left"><img src="https://github.com/Jill-of-All-Trades/-JAMS-games-/assets/52456404/d1c7dd01-a8f3-4395-8c6a-a8e56bd8ecc8" align="left">
 
@@ -123,7 +123,7 @@ P.S.: Our 3rd game, and we love it for no reason <3
   
 </div>
 
-## ⚔ [AVE Knight](https://ldj.am/$142941) ##
+## ⚔ [AVE Knight](https://ldjam.com/events/ludum-dare/44/ave-knight) ##
 
 <div class="pull_left"><img src="https://github.com/Jill-of-All-Trades/-JAMS-games-/assets/52456404/3e8ea39b-c1b8-4bb4-8409-53af00f98cb2" align="left">
 
@@ -135,7 +135,7 @@ P.S.: Our 2nd game, also platformer, but more polished than first game. It's tri
 <br><br><br><br><br>  
 </div>
 
-## ♻ [Slime MUST Survive](https://ldj.am/$123742) ##
+## ♻ [Slime MUST Survive](https://ldjam.com/events/ludum-dare/43/slime-must-survive) ##
 
 <div class="pull_left"><img src="https://github.com/Jill-of-All-Trades/-JAMS-games-/assets/52456404/13b72bd7-7a92-431b-a620-881f80a2c5cc" align="left">
 
