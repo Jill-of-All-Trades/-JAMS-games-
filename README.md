@@ -1,6 +1,25 @@
 # ✨ JAMS games ✨
 The list of my **released games for JAMs** (with desc and links)
 
+## 💕 [My Succubus Girlfriend](https://ninjacatz.itch.io/my-succubus-gf) ##
+
+<div class="pull_left"><img src="https://github.com/Jill-of-All-Trades/-JAMS-games-/assets/52456404/87ba8edc-4177-498f-b614-cf679f058976" align="left"> 
+
+  **Summonomicon**<br>
+  It’s a new book for novice summoners which will allow you to summon the succubus of your dreams!<br>
+  Follow the manual, explore your house for required items.
+  
+  **Draw pentagrams**<br>
+  To summon something, you also need a correct pentagram. And you will draw it!
+
+  **Practice makes perfect**<br>
+  But sometimes you summon something you don’t want… Everyone makes mistakes. Practice makes perfect.
+
+  *Ludum Dare 55*
+  <br><br><br><br> <br><br><br><br>
+
+</div>
+
 ## 🛤 [Gardens of Yō](https://gx.games/ru/games/n6wqij/gardens-of-yo/) ##
 
 <div class="pull_left"><img src="https://github.com/Jill-of-All-Trades/-JAMS-games-/assets/52456404/718928c6-232c-449c-b2b5-a2a1702617d7" align="left"> 
